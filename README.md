@@ -45,23 +45,48 @@ Die Website besteht aus mehreren statischen HTML‑Seiten mit gemeinsamem CSS:
 ```
 
 ---
-
-## Screenshots
-
-*(Auswahl)*
-
-### Landing Page
-
-![Landing](screenshots/landing.png)
-
-### About Me
-
-![About Me](screenshots/abou_me.png)
-
-### The Plan
-
-![The Plan](screenshots/plahn.png)
-
+## Screenshots 
+*Klicke auf ein Vorschaubild (Thumbnail), um den vollständigen Screenshot zu sehen.* 
+<table> 
+  <tr> 
+    <td align="center"> 
+      <a href="screenshots/landing.png"> 
+        <img src="thumbnails/landing.png" alt="Landing Page" width="200" /> 
+      </a>
+      <br /> 
+      <strong>Landing Page</strong> 
+    </td> 
+    <td align="center"> 
+      <a href="screenshots/plahn.png"> 
+        <img src="thumbnails/plahn.png" alt="The Plan" width="200" /> 
+      </a>
+      <br /> 
+      <strong>The Plan</strong> </td> 
+    <td align="center"> 
+      <a href="screenshots/abou_me.png"> 
+        <img src="thumbnails/abou_me.png" alt="About Me" width="200" /> 
+      </a>
+      <br /> 
+      <strong>About Me</strong> 
+    </td> 
+  </tr>
+  <tr>
+     <td align="center"> 
+      <a href="screenshots/low.png"> 
+        <img src="thumbnails/low.png" alt="LowCarb" width="200" /> 
+      </a>
+      <br /> 
+      <strong>LowCarb</strong> 
+    </td> 
+     <td align="center"> 
+      <a href="screenshots/intervall.png"> 
+        <img src="thumbnails/intervall.png" alt="About Me" width="200" /> 
+      </a>
+      <br /> 
+      <strong>About Me</strong> 
+    </td> 
+  </tr>
+</table>
 ---
 
 ## Technik
