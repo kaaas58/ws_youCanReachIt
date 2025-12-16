@@ -51,7 +51,7 @@ h1{
 }
 
 .round{
-    filter: blur(4px);
+    filter: blur(1.5px);
 }
 
 a{ 
@@ -98,6 +98,7 @@ body{
     font-family: Arial, Helvetica, sans-serif
 
 }
+
 
 
 
