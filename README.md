@@ -86,7 +86,6 @@ Die Website besteht aus mehreren statischen HTML‑Seiten mit gemeinsamem CSS:
     </td> 
   </tr>
 </table>
----
 
 ---
 ## Technik
