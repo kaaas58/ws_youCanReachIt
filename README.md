@@ -25,17 +25,14 @@ Die Website besteht aus mehreren statischen HTML‑Seiten mit gemeinsamem CSS:
 
 ```plaintext
 ├── image/                # Allgemeine Bilder
-│
 ├── screenshots/          # Vollständige Seiten-Screenshots
 │   ├── abou_me.png
 │   ├── landing.png
 │   └── plahn.png
-│
 ├── thumbnails/           # Kleine Vorschaubilder
 │   ├── abou_me.png
 │   ├── landing.png
 │   └── plahn.png
-│
 ├── index.html            # Startseite
 ├── aboutme.html          # Über mich
 ├── plan.html             # Der Plan
@@ -51,19 +48,30 @@ Die Website besteht aus mehreren statischen HTML‑Seiten mit gemeinsamem CSS:
 
 ## Screenshots
 
-*(Auswahl)*
+*Klicke auf ein Vorschaubild (Thumbnail), um den vollständigen Screenshot zu sehen.*
 
-### Landing Page
-
-![Landing](screenshots/landing.png)
-
-### About Me
-
-![About Me](screenshots/abou_me.png)
-
-### The Plan
-
-![The Plan](screenshots/plahn.png)
+<table>
+  <tr>
+    <td align="center">
+      <a href="screenshots/landing.png">
+        <img src="thumbnails/landing.png" alt="Landing Page" width="200" />
+      </a><br />
+      <strong>Landing Page</strong>
+    </td>
+    <td align="center">
+      <a href="screenshots/abou_me.png">
+        <img src="thumbnails/abou_me.png" alt="About Me" width="200" />
+      </a><br />
+      <strong>About Me</strong>
+    </td>
+    <td align="center">
+      <a href="screenshots/plahn.png">
+        <img src="thumbnails/plahn.png" alt="The Plan" width="200" />
+      </a><br />
+      <strong>The Plan</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
