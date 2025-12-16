@@ -56,21 +56,6 @@ Die Website besteht aus mehreren statischen HTML‑Seiten mit gemeinsamem CSS:
       <br /> 
       <strong>Landing Page</strong> 
     </td> 
-    <td align="center"> 
-      <a href="screenshots/plahn.png"> 
-        <img src="thumbnails/plahn.png" alt="The Plan" width="200" /> 
-      </a>
-      <br /> 
-      <strong>The Plan</strong> </td> 
-    <td align="center"> 
-      <a href="screenshots/abou_me.png"> 
-        <img src="thumbnails/abou_me.png" alt="About Me" width="200" /> 
-      </a>
-      <br /> 
-      <strong>About Me</strong> 
-    </td> 
-  </tr>
-  <tr>
      <td align="center"> 
       <a href="screenshots/low.png"> 
         <img src="thumbnails/low.png" alt="LowCarb" width="200" /> 
@@ -80,10 +65,24 @@ Die Website besteht aus mehreren statischen HTML‑Seiten mit gemeinsamem CSS:
     </td> 
      <td align="center"> 
       <a href="screenshots/intervall.png"> 
-        <img src="thumbnails/intervall.png" alt="About Me" width="200" /> 
+        <img src="thumbnails/intervall.png" alt="Intervall" width="200" /> 
+      </a>
+      <br /> 
+      <strong>Intervall</strong> 
+    </td> 
+    <td align="center"> 
+      <a href="screenshots/abou_me.png"> 
+        <img src="thumbnails/abou_me.png" alt="About Me" width="200" /> 
       </a>
       <br /> 
       <strong>About Me</strong> 
+    </td> 
+    <td align="center"> 
+      <a href="screenshots/plahn.png"> 
+        <img src="thumbnails/plahn.png" alt="The Plan" width="200" /> 
+      </a>
+      <br /> 
+      <strong>The Plan</strong> 
     </td> 
   </tr>
 </table>
