@@ -50,6 +50,10 @@ h1{
     background-color: rgb(249, 249, 249);
 }
 
+.round{
+    filter: blur(4px);
+}
+
 a{ 
     display: block;
     margin-right:  30%;
@@ -94,5 +98,6 @@ body{
     font-family: Arial, Helvetica, sans-serif
 
 }
+
 
 
